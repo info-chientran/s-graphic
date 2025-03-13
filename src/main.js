@@ -1,4 +1,4 @@
-// import messageLog from './utils/messageLog';
+import messageLog from './utils/messageLog.js';
 
 const main = () => {
     const canvas = document.getElementById('canvas');
